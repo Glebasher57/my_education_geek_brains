@@ -1,1 +1,1 @@
-print('Hello, world!\n', 'Hello\n',100)
+player = {"name": input("Введите имя 1 игрока - "), "health": 100, "damage": 20, "armor": 1.2}

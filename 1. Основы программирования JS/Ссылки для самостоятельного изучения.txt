@@ -1,5 +1,0 @@
-https://geekbrains.ru/posts/kak-uchit-python-devyat-kratkih-prakticheskih-sovetov - Доп инфа по порядку изучения питона
-
-https://vk.com/@programmistov-hochu-nauchitsya-programmirovat-na-python-s-chego-nachat - Доп инфа по порядку изучения питона
-
-https://stepik.org/users/75336941 - SQL Базы

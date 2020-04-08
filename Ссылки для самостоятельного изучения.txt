@@ -1,0 +1,36 @@
+Курсы | Книги | Интернет источники:
+
+https://geekbrains.ru/posts/kak-uchit-python-devyat-kratkih-prakticheskih-sovetov - Доп инфа по порядку изучения питона.
+
+https://vk.com/@programmistov-hochu-nauchitsya-programmirovat-na-python-s-chego-nachat - Доп инфа по порядку изучения питона.
+
+https://stepik.org/users/75336941 - SQL Базы.
+
+https://m.habr.com/ru/post/349860/ - Регулярные выражения в Python.
+
+https://vk.com/doc183707182_490008703?hash=ea08b1c2705df7f91b&dl=4c325391ee63be813b - Django для начинающих. Хороший Учебник.
+
+https://stepik.org/course/73/promo - Бесплатный курс по введению в Linux.
+
+https://stepik.org/course/14736/promo#toc - Бесплатный курс "Как работает Интернет".
+
+https://hyperskill.org/onboarding/project?track=391 - Самостоятельная практика в разработке небольших проектов с нуля.
+
+https://ru.hexlet.io/courses/logic - Курс логики на Хекслете.
+
+
+YouTube Видео:
+
+https://www.youtube.com/watch?v=4E8sr4QS7OI - Учим Photoshop за 1 час! #От Профессионала
+
+https://www.youtube.com/watch?v=HihYQVuH64U - Методология БЭМ за 17 минут. Пример верстки по БЭМ методологии // Фрилансер по жизни
+
+https://www.youtube.com/watch?v=ltMSrSis9ww - #1 Верстка сайта с нуля для начинающих | HTML, CSS
+
+https://www.youtube.com/watch?v=fp5-XQFr_nk - Учим Python за 1 час! #От Профессионала
+
+https://www.youtube.com/watch?v=iPV5GKeHyV4 - Учим CSS за 1 час! #От Профессионала
+
+https://www.youtube.com/watch?v=_VgwsxuxXqE - Виталий Фридман: Responsive Web-дизайн. Трюки и уловки | Технострим
+
+https://www.youtube.com/watch?v=Q2zxQNQGcU8 - Верстка сайта с нуля до завершения, html/css/js

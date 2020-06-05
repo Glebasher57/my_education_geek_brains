@@ -1,0 +1,28 @@
+Курсовой проект БД на основе сервиса онлайн-магазина WildBerries.
+
+Состоит из 25 таблиц:
+users - таблица с регистрационной информацией
+profiles - профили пользователей
+figure_params - параметры фигуры
+user_addresses - адреса пользователя
+requisites - реквизиты пользователя
+active_sessions - активные сессии пользователя
+discounts - скидки
+promo_codes - промо-коды
+notifications - уведомления
+catalogs - каталог товаров
+products - товары
+product_properties - свойства товаров
+payment_types - типы оплаты
+delivery_methods - методы доставки
+available_cities - доступные города
+delivery_services - сервисы доставки
+orders - заказы
+orders_delivery - выбранный метод доставки заказа
+orders_products - товары в заказе
+users_carts - корзина пользователя
+storehouses - склады
+storehouses_products - товары на складе
+reviews - отзывы
+review_media - возможность нескольких фото для отзывов
+images - фото пользователей, товаров, пунктов выдачи

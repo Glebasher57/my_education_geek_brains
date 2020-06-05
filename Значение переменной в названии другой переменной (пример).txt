@@ -1,0 +1,13 @@
+from collections import deque, defaultdict, namedtuple
+
+comp_num = int(input('Сколько компаний?\n'))
+
+comp_info = namedtuple('comp_info', 'c_name, quarter1, quarter2, quarter3, quarter4')
+
+for i in range(comp_num):
+    c_name = input(f'Введите название {i+1} компании: ')
+    quarter1 = float(input(f'Прибыль за 1 квартал: '))
+    quarter2 = float(input(f'Прибыль за 2 квартал: '))
+    quarter3 = float(input(f'Прибыль за 3 квартал: '))
+    quarter4 = float(input(f'Прибыль за 4 квартал: '))
+    exec('comp_%d = %r' % (i+1, comp_info(c_name, quarter1, quarter2, quarter3, quarter4)))

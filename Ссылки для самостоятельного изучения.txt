@@ -18,6 +18,8 @@ https://hyperskill.org/onboarding/project?track=391 - Самостоятельн
 
 https://ru.hexlet.io/courses/logic - Курс логики на Хекслете.
 
+https://habr.com/ru/post/349860/ - Статья про регулярные выражения на Python.
+
 
 YouTube Видео:
 
@@ -34,3 +36,5 @@ https://www.youtube.com/watch?v=iPV5GKeHyV4 - Учим CSS за 1 час! #От 
 https://www.youtube.com/watch?v=_VgwsxuxXqE - Виталий Фридман: Responsive Web-дизайн. Трюки и уловки | Технострим
 
 https://www.youtube.com/watch?v=Q2zxQNQGcU8 - Верстка сайта с нуля до завершения, html/css/js
+
+https://www.youtube.com/watch?v=SQbpwEPuasM - Реальный день программиста! Javascript Визуализация данных
